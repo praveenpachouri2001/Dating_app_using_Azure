@@ -4,7 +4,9 @@
 Demo
 
 
-Azure published - https://dappdemo.azurewebsites.net/ - Register with your information and check the app flow OR you can just login with an existing user lola/password
+Azure published - https://dappdemo.azurewebsites.net/ - Register with your information and check the application 
+
+demo url video -: https://youtu.be/mnxzACLZYXI
 
 
 
